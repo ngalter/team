@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "node-modules": "^1.0.1",
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
