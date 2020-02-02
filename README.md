@@ -17,3 +17,21 @@
  3. The data created from each class is passed through to an HTML template to format the web page information.
  4. When the user is finished inputing data the ouput HTML file is completed.
  
+ #Directory Structure
+ The directory structure for the files is below:
+ lib/           // classes and helper code
+ output/        // rendered output
+    myteam.html
+ templates/     // HTML template(s)
+    beginhtml.js
+    endhtml.js
+    engineerhtml.js
+    internhtml.js
+    managerhtml.js
+ test/          // jest tests
+   Employee.test.js
+   Engineer.test.js
+   Intern.test.js
+   Manager.test.js
+ app.js         // Runs the application
+ 
