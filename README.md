@@ -1,4 +1,4 @@
-# HW-Employee
+# Team
  
  #User Story
  This Application generates a webpage that displays my team's basic info.
