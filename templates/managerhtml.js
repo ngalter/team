@@ -1,5 +1,4 @@
 const managerHTML = (data, res) => {
-  console.log("Manager:" + data);
   var name = data.name;
   var id = data.id;
   var email = data.email;
