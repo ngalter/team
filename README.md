@@ -14,6 +14,7 @@
  a. Manager
  b. Engineer
  c. Intern
+ 3. The application enforces the requirement that there is only 1 manager but there can be any number of interns and engineers.
  
  There is a gif showing the data input process.
  
