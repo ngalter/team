@@ -1,8 +1,8 @@
-# Team
+# Team Generator
  
  #User Story
- This Application generates a webpage that displays my team's basic info.
- It gives me quick access to email and Git Hub profiles.
+ This Application allows the user to build a team from a CLI.  The app then generates a webpage that displays the team's basic info.
+ It gives quick access to email and Git Hub profiles.
  
  #Jest
  First each employee class passed the jest testing process.
